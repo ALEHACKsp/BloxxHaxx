@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BloxxHaxx", "BloxxHaxx\BloxxHaxx.vcxproj", "{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Debug|x64.ActiveCfg = Debug|x64
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Debug|x64.Build.0 = Debug|x64
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Debug|x86.Build.0 = Debug|Win32
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Release|x64.ActiveCfg = Release|x64
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Release|x64.Build.0 = Release|x64
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Release|x86.ActiveCfg = Release|Win32
+		{3C1A8406-E3B2-49B6-AF9D-A732D3B3AB86}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2745BADC-EB6D-46D8-85B2-ECBBEEA2F648}
+	EndGlobalSection
+EndGlobal
