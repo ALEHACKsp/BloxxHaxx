@@ -8,7 +8,7 @@ bool AutoClick_Enabled = false;
 
 
 
-inline void AutoClick_Cheat() {
+void AutoClick_Cheat() {
 	for (;;)
 	{
 		if (AutoClick_Enabled != true) { ExitThread(0); }
